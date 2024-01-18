@@ -1,0 +1,26 @@
+{
+  "name": "fullwidth-latin",
+  "version": "1.0.0",
+  "description": "Converts Latin characters to their full-text version",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoeichert/full-width.git"
+  },
+  "keywords": [
+    "full-width"
+  ],
+  "author": "Diogo Eichert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogoeichert/full-width/issues"
+  },
+  "homepage": "https://github.com/diogoeichert/full-width#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
