@@ -1,6 +1,6 @@
 {
 	"name": "fullwidth-latin",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Converts Latin characters to their full-text version",
 	"main": "src/index.js",
 	"scripts": {
