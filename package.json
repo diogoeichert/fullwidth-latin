@@ -4,7 +4,6 @@
 	"description": "Converts Latin characters to their full-text version",
 	"main": "src/index.js",
 	"scripts": {
-		"build": "tsc",
 		"test": "eslint --fix . && node ./src/test.js"
 	},
 	"repository": {

@@ -1,3 +1,5 @@
+"use strict";
+
 const FULLWIDTH_CHAR = 0xFEE0;
 
 const FULLWIDTH_CODES = {
